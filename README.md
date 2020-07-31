@@ -15,3 +15,9 @@ I'm a Junior Full-Stack Developer, who is passionate about programming, especial
 - 👨🏽‍💻  I’m currently working with **JavaScript, Angular, Nest.js, Node.js, Docker, ...**
 - 📫  Reach me on [Twitter](https://twitter.com/darwinmaking).
 
+<div align="center">
+  <img width=170 src="https://raw.githubusercontent.com/DarwinGonzalez/DarwinGonzalez/master/img/characters-7.png" />
+  <img width=170 src="https://raw.githubusercontent.com/DarwinGonzalez/DarwinGonzalez/master/img/characters-5.png" />
+  <img width=170 src="https://raw.githubusercontent.com/DarwinGonzalez/DarwinGonzalez/master/img/characters-5.png" />
+  <img width=40 src="https://raw.githubusercontent.com/DarwinGonzalez/DarwinGonzalez/master/img/characters-6.png" />
+</div>
