@@ -1,4 +1,10 @@
 # Hi, I'm Darwin 👋🏽
+<div align="center">
+  <img width=160 src="https://raw.githubusercontent.com/DarwinGonzalez/DarwinGonzalez/master/img/characters-1.png" />
+  <img width=150 src="https://raw.githubusercontent.com/DarwinGonzalez/DarwinGonzalez/master/img/characters-2.png" />
+  <img width=150 src="https://raw.githubusercontent.com/DarwinGonzalez/DarwinGonzalez/master/img/characters-3.png" />
+  <img width=140 src="https://raw.githubusercontent.com/DarwinGonzalez/DarwinGonzalez/master/img/characters-4.png" />
+</div>
 
 <img width=256 align="right" src="https://raw.githubusercontent.com/DarwinGonzalez/DarwinGonzalez/master/img/darwin-octocat.png" />
 
