@@ -1,5 +1,7 @@
 # Hi, I'm Darwin 👋🏽
 
+<img width=256 align="right" src="https://raw.githubusercontent.com/DarwinGonzalez/DarwinGonzalez/master/img/darwin-octocat.png" />
+
 
 I'm a Junior Full-Stack Developer, who is passionate about programming, especially with JavaScript and TypeScript technologies.
 
